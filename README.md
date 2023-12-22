@@ -1,7 +1,7 @@
 # Fashion_House_Datawarehouse_ETL_Design
 
 ## Description
-This project is an ETL design for fashion house datawarehouse using Kettle.
+An ETL design for fashion house datawarehouse using Kettle
 
 ## Project Structure
 ```
